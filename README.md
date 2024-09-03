@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizukiuf&label=Profile%20views&color=0e75b6&style=flat" alt="rizukiuf" /> </p>
 
-- 🔭 I’m currently working on [SIPKL Informatics Undip](https://github.com/PKL-Informatika-UNDIP-2024-Genap/SIPKL)
+- 🔭 I've developed a web-based Information System [SIPKL Informatics Undip](https://github.com/PKL-Informatika-UNDIP-2024-Genap/SIPKL)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I have passion in **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Capstone Project in Bangkit**
+- 💬 Ask me about **Python, Laravel, Git and Github, Bootstrap, Machine Learning**, or anything you have in mind
 
-- 💬 Ask me about **python, laravel, git, bootstrap**
-
-- 📫 How to reach me **rizkiutamafauzi@gmail.com**
+- 📫 How to reach me: **rizkiutamafauzi@gmail.com** or **LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
