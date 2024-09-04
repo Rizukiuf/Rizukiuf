@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizukiuf&label=Profile%20views&color=0e75b6&style=flat" alt="rizukiuf" /> </p>
 
-- 🔭 I've developed a web-based Information System [SIPKL Informatics Undip](https://github.com/PKL-Informatika-UNDIP-2024-Genap/SIPKL)
+- 🔭 I've developed a web-based Information System SIPKL Informatika Undip from intern program in Informatics Department, Diponegoro University
 
-- 🌱 I have passion in **Machine Learning**
+- 🌱 I have passion in **Machine Learning** and **Web Development**
 
 - 💬 Ask me about **Python, Laravel, Git and Github, Bootstrap, Machine Learning**, or anything you have in mind
 
