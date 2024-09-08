@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Rizki Utama Fauzi</h2>
-<h3 align="center">A passionate machine learning enthusiast from Indonesia. I am also a web developer.</h3>
+<h3 align="center">A web developer and a passionate machine learning enthusiast from Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizukiuf&label=Profile%20views&color=0e75b6&style=flat" alt="rizukiuf" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Laravel, Git and Github, Bootstrap, Machine Learning**, or anything you have in mind
 
-- 📫 How to reach me: **rizkiutamafauzi@gmail.com** or **LinkedIn**
+- 📫 How to reach me: **rizkiutamafauzi@gmail.com** or via **LinkedIn** and **Instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
