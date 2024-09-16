@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizukiuf&label=Profile%20views&color=0e75b6&style=flat" alt="rizukiuf" /> </p>
 
-- 🔭 I've developed a web-based Information System SIPKL Informatika Undip from intern program in Informatics Department, Diponegoro University
+- 🔭 I've developed a web-based Information System SIPKL Informatika Undip from intern program in Informatics Department, Diponegoro University ([Demo](https://purple-horse-287164.hostingersite.com))
 
 - 🌱 I have passion in **Machine Learning** and **Web Development**
 
