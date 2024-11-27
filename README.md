@@ -1,15 +1,15 @@
-<h2 align="center">Hi 👋, I'm Rizki Utama Fauzi</h2>
+<h2 align="center">Hi 👋, I am Rizki Utama Fauzi</h2>
 <h3 align="center">A web developer and a passionate machine learning enthusiast from Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizukiuf&label=Profile%20views&color=0e75b6&style=flat" alt="rizukiuf" /> </p>
 
-- 🔭 I've developed a web-based Information System SIPKL Informatika Undip from intern program in Informatics Department, Diponegoro University ([Demo](https://purple-horse-287164.hostingersite.com))
+- 🌱 I have passion in **Machine Learning**, **Web Development**, and **Cloud Computing**.
 
-- 🌱 I have passion in **Machine Learning** and **Web Development**
+- 🔭 I've developed a web-based Information System `SIPKL Informatika Undip` from an intern program in the Department of Informatics, Diponegoro University ([Demo](https://purple-horse-287164.hostingersite.com))
 
-- 💬 Ask me about **Python, Laravel, Git and Github, Bootstrap, Machine Learning**, or anything you have in mind
+- 💬 You can ask me about **Python, Laravel, Git and Github, Bootstrap, Machine Learning**, or anything you have in mind.
 
-- 📫 How to reach me: **rizkiutamafauzi@gmail.com** or via **LinkedIn** and **Instagram**
+- 📫 You can reach me: via **rizkiutamafauzi@gmail.com** or via **LinkedIn** and **Instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
