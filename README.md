@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I am Rizki Utama Fauzi</h2>
-<h3 align="center">A web developer and a passionate machine learning enthusiast from Indonesia.</h3>
+<h3 align="center">A web developer, data science, and machine learning engineer from Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizukiuf&label=Profile%20views&color=0e75b6&style=flat" alt="rizukiuf" /> </p>
 
