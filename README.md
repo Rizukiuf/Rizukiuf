@@ -5,9 +5,9 @@
 
 - 🌱 I have passion in **Machine Learning**, **Web Development**, and **Cloud Computing**.
 
-- 🔭 I've developed a web-based Information System `SIPKL Informatika Undip` from an intern program in the Department of Informatics, Diponegoro University ([Demo](https://purple-horse-287164.hostingersite.com))
+- 🔭 I've developed a web-based Information System `SIPKL Informatika Undip`, PlantPal mobile app, etc.
 
-- 💬 You can ask me about **Python, Laravel, Git and Github, Bootstrap, Machine Learning**, or anything you have in mind.
+- 💬 You can ask me about **Python, Laravel, Git/Github, Bootstrap, AI, Data Science, Machine Learning, Deep Learning**, or anything you have in mind.
 
 - 📫 You can reach me: via **rizkiutamafauzi@gmail.com** or via **LinkedIn** and **Instagram**
 
