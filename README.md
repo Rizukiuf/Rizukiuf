@@ -1,13 +1,15 @@
 <h2 align="center">Hi 👋, I am Rizki Utama Fauzi</h2>
-<h3 align="center">A web developer, data science, and machine learning engineer from Indonesia.</h3>
+<h3 align="center">A Web Developer, Data Science, and Machine Learning Engineer from Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizukiuf&label=Profile%20views&color=0e75b6&style=flat" alt="rizukiuf" /> </p>
 
-- 🌱 I have passion in **Machine Learning**, **Web Development**, and **Cloud Computing**.
+- 🌱 I have a strong passion in **Machine Learning**, **Web Development**, and **Cloud Computing**.
 
 - 🔭 I've developed a web-based Information System `SIPKL Informatika Undip`, PlantPal mobile app, etc.
 
 - 💬 You can ask me about **Python, Laravel, Git/Github, Bootstrap, AI, Data Science, Machine Learning, Deep Learning**, or anything you have in mind.
+
+- 💻 Been learning code-vibing and exploring a lot of new techs now!
 
 - 📫 You can reach me: via **rizkiutamafauzi@gmail.com** or via **LinkedIn** and **Instagram**
 
