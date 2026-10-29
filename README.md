@@ -7,7 +7,7 @@
 
 - 🔭 I've developed a web-based Information System `SIPKL Informatika Undip`, PlantPal mobile app, etc.
 
-- 💬 You can ask me about **Python, Laravel, Git/Github, Bootstrap, AI, Data Science, Machine Learning, Deep Learning**, or anything you have in mind.
+- 💬 You can ask me about **Python, Laravel, Javascript, Git/Github, Bootstrap, AI, Data Science, Machine Learning, Deep Learning**, or anything you have in mind.
 
 - 💻 Been learning code-vibing and exploring a lot of new techs now!
 
